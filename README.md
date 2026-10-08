@@ -1,16 +1,36 @@
-## Hi there 👋
-
-<!--
-**saniakundu7/saniakundu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+##...Hi, I'm Sania Kundu 👋
+Digital Marketer | Growth with AI
+I help brands grow online by combining digital marketing with AI tools, so campaigns are faster, smarter, and more data-driven.
+What I Do
+📈 Social Media Marketing
+🔍 SEO & Content Strategy
+✍️ AI-Assisted Content Writing
+🎯 Paid Ads (Meta, Google)
+📧 Email Marketing & Automation
+📊 Analytics & Reporting
+AI Tools I Use
+ChatGPT / Claude for content and ideas
+Canva AI / Midjourney for creatives
+Automation tools (Zapier, Make)
+Google Analytics & Search Console
+Featured Work
+Project
+What I Did
+Result
+Project 1
+Short description
+Add result
+Project 2
+Short description
+Add result
+Project 3
+Short description
+Add result
+Education
+🎓 NIELIT O Level (Computer Course)
+Let's Connect
+📧 Email: saniakundu7@gmail.com
+⭐ Open to freelance projects and collaborations!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
